@@ -1,0 +1,13 @@
+{
+  "name": "custom",
+  "description": "My custom css & js classes",
+  "moduleType": "globals",
+  "main": [
+    "css/admin-form.css",
+    "css/theme.css",
+    "js/canvasbg.js", "js/demo.js", "js/main.js", "js/utility.js"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  }
+}
