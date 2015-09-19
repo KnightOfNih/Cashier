@@ -207,7 +207,7 @@ var Company = function(name, customers, vendors, products){
 
     var profit = new Account('Profit'),
         income = new Account('Income'),
-        expenses = new Account('Expenses');
+        expenses = new Account('Expenses', [], -1);
 
     profit.children.push(income);
     profit.children.push(expenses);
@@ -226,18 +226,18 @@ var Company = function(name, customers, vendors, products){
     var cogs = new Account('COGS', sales);
 
     var payroll = new Account('Payroll', [
-        -100,
-        -100,
-        -100,
-        -100,
-        -100,
-        -100,
-        -100,
-        -100,
-        -100,
-        -100,
-        -100,
-        -100
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
     ]);
 
     expenses.children.push(cogs);
@@ -253,12 +253,13 @@ Company.prototype.init = function(){
     this.finances.cashflow = {};
     this.finances.cashflow.current = 0;
     this.finances.cashflow.months = [];
-}
+};
 
-function Account(name, months){
+function Account(name, months, modifier){
     this.name = name;
     this.months = months || [];
     this.children = [];
+    this.modifier = modifier || 1;
 }
 
 Account.prototype.init = function() {
@@ -273,6 +274,10 @@ Account.prototype.init = function() {
                 self.months[i] = a + b;
             }
         })
+    }
+
+    for(var i = 0; i < self.months.length; i++){
+        self.months[i] = self.months[i] * self.modifier;
     }
 
     return self.months;
