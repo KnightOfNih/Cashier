@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="Cashier" >
+<html ng-app="Cashier" ng-controller="dashboardController">
 
 <head>
     <!-- Meta, title, CSS, favicons, etc. -->
@@ -780,12 +780,12 @@
                     </a>
                     <ul class="nav sub-nav">
                         <li>
-                            <a class="accordion-toggle menu-open" href="#">
+                            <a class="accordion-toggle menu-open" href="#dashboard" ng-click="loadEven()">
                                 <!--<span class="fa fa fa-arrows-h"></span>-->
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Break Even
                                 <span class="caret"></span>
                             </a>
-                            <a class="accordion-toggle menu-open" href="#">
+                            <a class="accordion-toggle menu-open" href="#dashboard" ng-click="loadSeasonal()">
                                 <!--<span class="fa fa fa-arrows-h"></span>-->
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seasonal
                                 <span class="caret"></span>

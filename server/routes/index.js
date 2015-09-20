@@ -18,24 +18,31 @@ module.exports = function (db) {
         res.render('test.html');
     });
 
-    router.get('/index', function (req, res) {
-        res.render('index.html');
-    });
-
-    router.get('/index-init', function (req, res) {
-        console.log("Init loading?");
-        return res.json({msg: 'Loaded.'});
+    router.post('/load-company', function (req, res) {
+        req.session.companyId = req.body.companyId;
+        res.json({msg:'Success'})
     });
 
     router.get('/dashboard', function (req, res) {
         res.render('dashboard.html');
     });
 
-    router.get('/dashboard-init', function (req, res) {
+    router.post('/dashboard-init', function (req, res) {
 
         // Pull in the different sources of info
-        var companyId = req.session.companyId || 1,
-            company = db.getCompany(companyId);
+
+        var companyId;
+        if(req.session.companyId == 0){
+            companyId = 0;
+        } else {
+            companyId = req.session.companyId || 1;
+        }
+
+        var company = db.getCompany(companyId);
+
+        company.companyId = companyId;
+
+        console.log('Loading company ' + companyId);
         return res.json(company);
     });
 

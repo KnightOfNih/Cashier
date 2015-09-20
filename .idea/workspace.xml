@@ -2,669 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e55d2c35-451f-4189-a5cc-4989c6badc87" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/Sorting icons.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/images/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/back_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/back_enabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/back_enabled_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/images/calender.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/calender.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/collection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/psd/collection.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/collection_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/psd/copy document.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/swf/copy_csv_xls.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/swf/copy_csv_xls_pdf.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/copy_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/csv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/csv_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/details_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/details_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/psd/file_types.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/images/filler.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/forward_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/forward_enabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/forward_enabled_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/images/insert.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/images/loading-background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/pdf_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/print.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/print_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/psd/printer.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/font/raleway_thin-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/font/raleway_thin-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/font/raleway_thin-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/images/shadow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/images/shadow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/bootstrap/images/sort_asc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/foundation/images/sort_asc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/images/sort_asc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/foundation/images/sort_asc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/sort_asc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/bootstrap/images/sort_asc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/foundation/images/sort_asc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/images/sort_asc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/foundation/images/sort_asc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/sort_asc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/bootstrap/images/sort_both.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/foundation/images/sort_both.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/images/sort_both.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/foundation/images/sort_both.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/sort_both.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/bootstrap/images/sort_desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/foundation/images/sort_desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/images/sort_desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/foundation/images/sort_desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/sort_desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/bootstrap/images/sort_desc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/foundation/images/sort_desc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/images/sort_desc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/foundation/images/sort_desc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/images/sort_desc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/xls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/images/xls_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/examples/data/2500.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Afrikaans.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Albanian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Arabic.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Azerbaijan.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Bangla.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Belarusian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Bulgarian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Catalan.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Chinese-traditional.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Chinese.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Croatian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Czech.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Danish.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/DataTables.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Dutch.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Editor/Editor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/English.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Estonian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Ext/Ext.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Editor/Field.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Filipino.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Finnish.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Editor/Format.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/French.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Galician.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Georgian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/German.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Greek.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Gujarati.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Hebrew.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Hindi.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Hungarian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Icelandic.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Indonesian-Alternative.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Indonesian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Irish.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Italian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Japanese.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Editor/Join.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Korean.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Latvian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Lithuanian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Macedonian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Malay.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Norwegian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Persian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Polish.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Portuguese-Brasil.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Portuguese.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Driver/Mysql/Query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Driver/Oracle/Query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Driver/Postgres/Query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Driver/Sqlite/Query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Driver/Sqlserver/Query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/REST.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedHeader/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/KeyTable/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Driver/Mysql/Result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Driver/Oracle/Result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Driver/Postgres/Result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Driver/Sqlite/Result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Database/Driver/Sqlserver/Result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Romanian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Russian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Serbian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Slovak.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Slovenian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Spanish.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Swahili.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Swedish.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/syntax/Syntax Highlighter license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/filtering/row-based/TableTools.ShowSelectedOnly.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Tamil.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Thai.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Turkish.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Ukranian.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Urdu.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Uzbek.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/Editor/Validate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/Vietnamese.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/filtering/type-based/accent-neutralise.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/add_row.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/data_sources/ajax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/initialisation/ajax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/ajax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/alt-string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/alt_insert.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/alt_pagination.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/alter_buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/anti-the.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/plug-ins/api.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/api_in_init.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/examples/api_scrolling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/data/arrays.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/data/arrays_custom_prop.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/data/arrays_subobjects.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/display-control/auto.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/average().js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/api/backNext.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/styling/bootstrap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/styling/bootstrap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/bootstrap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/font-awesome/bootstrap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/styling/bootstrap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/bootstrap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/browsers.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/browsers_array.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/standalone/bubble.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/button_order.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/button_text.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/styling/cell-border.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/chinese-string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/initialisation/className.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/display-control/classes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/api/clientValidation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/col_filter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/col_filter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/collection.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/column().title().js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/child-rows/column-control.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/column_render.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/columns().order().js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/examples/columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/colvis.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/colvis.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/comma-decimal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/styling/compact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/examples/complete-callback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/complex_header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/complex_header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/php/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/api/confirmClose.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/counter_columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/rest/create.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/css_size.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/currency.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/type-detection/currency.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/child-rows/custom-renderer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/custom_data_flat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/custom_data_property.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/custom_vars.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/features/alphabetSearch/dataTables.alphabetSearch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/features/alphabetSearch/dataTables.alphabetSearch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/features/alphabetSearch/dataTables.alphabetSearch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/css/dataTables.autoFill.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/js/dataTables.autoFill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/css/dataTables.autoFill.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/js/dataTables.autoFill.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/bootstrap/3/dataTables.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/1/dataTables.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/2/dataTables.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/3/dataTables.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/css/dataTables.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/bootstrap/3/dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/1/dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/2/dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/3/dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/js/dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/2/dataTables.bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/3/dataTables.bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/css/dataTables.colReorder.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/js/dataTables.colReorder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/css/dataTables.colReorder.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/js/dataTables.colReorder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/css/dataTables.colVis.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/js/dataTables.colVis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/css/dataTables.colVis.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/js/dataTables.colVis.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/css/dataTables.colvis.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/css/dataTables.editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/js/dataTables.editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/js/dataTables.editor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/css/dataTables.fixedColumns.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/css/dataTables.fixedColumns.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedHeader/css/dataTables.fixedHeader.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedHeader/css/dataTables.fixedHeader.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/font-awesome/dataTables.fontAwesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/foundation/dataTables.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/foundation/dataTables.foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/foundation/dataTables.foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/foundation/dataTables.foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/foundation/dataTables.foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/pagination/jPaginator/dataTables.jPaginator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/jqueryui/dataTables.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/jqueryui/dataTables.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/jqueryui/dataTables.jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/jqueryui/dataTables.jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/jqueryui/dataTables.jqueryui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/jqueryui/dataTables.jqueryui.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/jqueryui/dataTables.jqueryui.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/KeyTable/css/dataTables.keyTable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/KeyTable/js/dataTables.keyTable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/KeyTable/css/dataTables.keyTable.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/KeyTable/js/dataTables.keyTable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/features/lengthLinks/dataTables.lengthLinks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/features/lengthLinks/dataTables.lengthLinks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/features/lengthLinks/dataTables.lengthLinks.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/css/dataTables.plugins.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/css/dataTables.responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/js/dataTables.responsive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/js/dataTables.responsive.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/css/dataTables.responsive.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/css/dataTables.scroller.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/js/dataTables.scroller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/css/dataTables.scroller.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/js/dataTables.scroller.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/features/searchHighlight/dataTables.searchHighlight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/features/searchHighlight/dataTables.searchHighlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/features/searchHighlight/dataTables.searchHighlight.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/css/dataTables.tableTools.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/css/dataTables.tableTools.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/font-awesome/datatables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/date-dd-MMM-yyyy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/date-de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/date-eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/date-euro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/date-uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/type-detection/date-uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/simple/dates.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/dates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/datetime-us.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/de_DE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/deep.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/deepObjects.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/initialisation/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/bubble-editing/defaultOptions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/defaults.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/defaults.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/defer_loading.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/defer_render.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/child-rows/disable-child-rows.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/styling/display.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/plug-ins/displayController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/custom-data-source/dom-checkbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/custom-data-source/dom-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/custom-data-source/dom-text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/dom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/data_sources/dom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/dom_multiple_elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/plug-ins/dom_sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/dom_toolbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/dt_events.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/api/duplicateButton.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/rest/edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/inline-editing/editIcon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/resources/editor-demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/resources/bootstrap/editor.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/resources/bootstrap/editor.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/js/editor.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/resources/bootstrap/editor.bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/resources/jqueryui/editor.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/resources/jqueryui/editor.jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/pagination/ellipses.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/enum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/styling/envelope.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/styling/envelopeInTable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/KeyTable/examples/events.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/events_live.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/examples.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/resources/examples.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/exclude_columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/exportButtons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/pagination/extjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/simple/fieldDefaults.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/plug-ins/fieldPlugin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/simple/fieldTypes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/fieldTypes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/file-size.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/type-detection/file-size.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/examples/fill-both.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/examples/fill-horizontal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/filter_only.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/fixedcolumns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/fixedheader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/flexible_width.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnAddDataAndDisplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnAddTr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnColumnIndexToVisible.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnDataUpdate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnDisplayRow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnDisplayStart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnFakeRowspan.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnFilterAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnFilterClear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnFilterOnReturn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnFindCellRowIndexes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnFindCellRowNodes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnGetAdjacentTr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnGetColumnData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnGetColumnIndex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnGetHiddenNodes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnGetTd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnGetTds.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnLengthChange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnMultiFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnPagingInfo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnProcessingIndicator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnReloadAjax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnSetFilteringDelay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnSortNeutral.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnStandingRedraw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/fnVisibleToColumnIndex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/footer_callback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/formOnlyData.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/formOnlyData.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/type-detection/formatted-num.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/formatted-numbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/styling/foundation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/font-awesome/foundation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/styling/foundation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/pagination/four_button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/rest/get.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/group_columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/bubble-editing/grouped.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedHeader/examples/header_footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/hidden_columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/highlight.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/styling/hover.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/KeyTable/examples/html.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/filtering/type-based/html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/html5-data-attributes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/htmlTable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/htmlTable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/simple/i18n.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/scripts/ids-arrays.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/scripts/ids-objects.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/ids.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/bubble-editing/inTableControls.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/simple/inTableControls.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/data_sources/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/plug-ins/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/bootstrap/3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/jqueryui/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/styling/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/api/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/bubble-editing/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/inline-editing/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/plug-ins/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/simple/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/standalone/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/styling/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedHeader/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/KeyTable/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/filtering/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/i18n/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/bootstrap/3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/foundation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/integration/jqueryui/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/pagination/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/type-detection/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/child-rows/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/display-control/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/initialisation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/styling/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/index_column.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/display-control/init-classes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/standalone/inline.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/pagination/input.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/ip-address.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/type-detection/ip-address.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/simple/join.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/join.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/joinArray.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/joinArray.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/joinLinkTable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/joinLinkTable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/joinSelf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/joinSelf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/media/js/jquery.dataTables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/styling/jqueryUI.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/jqueryui.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/jqueryui.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/styling/jqueryui.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/jqueryui.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/data_sources/js_array.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/jsonId.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/jsonId.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/jsonp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/scripts/jsonp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/language.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/language_file.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/examples/large_js_source.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/left_right_columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/length_menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/localstorage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/monthYear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/mouseover.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/multi_col_sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/multi_filter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/multi_filter_select.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/multi_instance.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/multiple_tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/multiple_tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/scripts/mysql.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/sql/mysql.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/natural.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/initialisation/new.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/new_init.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/new_init.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/new_init.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/styling/no-classes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/null_data_source.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/num-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/type-detection/num-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/numeric-comma.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/type-detection/numeric-comma.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/object_data.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/object_dom_read.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/objects.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/scripts/objects.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/data/objects.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/data_sources/objects.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/data/objects_deep.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/data/objects_root_array.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/objects_subarrays.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/data/objects_subarrays.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/initialisation/option.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/bubble-editing/options.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/inline-editing/options.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/styling/order-column.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/orthogonal-data.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/data/orthogonal.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/page.jumpToData().js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/pdf_message.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/percent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/persian.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/filtering/type-based/phoneNumber.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/pipeline.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/plug-in.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/scripts/post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/scripts/postgres.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/sql/postgres.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/predefined.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/filtering/row-based/range_dates.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/plug-ins/range_filtering.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/filtering/row-based/range_numbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/realtime.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/regex.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/rest/remove.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/reset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/simple/responsive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/restore.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/child-rows/right-column.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/right_column.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/styling/row-border.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/row_callback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/row_details.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/row_details.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/row_grouping.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/rowspan.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/scientific.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/scroll_x.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/scroll_xy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/scroll_y.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/scroll_y_theme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/examples/scrolling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/scrolling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/KeyTable/examples/scrolling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/pagination/scrolling.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/pagination/select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/select_column.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/select_multi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/select_os.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/select_row.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/select_rows.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/select_single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/select_single_row.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/inline-editing/server-side-processing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/simple/server-side-processing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/server-side-processing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/examples/server-side_processing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/scripts/server_processing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/data_sources/server_side.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/server_side.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/syntax/shCore.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/resources/syntax/shCore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/show_hide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/signed-num.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/ajax/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/examples/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/bubble-editing/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/inline-editing/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/simple/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/standalone/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedHeader/examples/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/KeyTable/examples/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/examples/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/size_fixed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/size_fluid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/advanced_init/sort_direction_control.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/plug-ins/sorting_auto.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/plug-ins/sorting_manual.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/scripts/sqlite.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/sql/sqlite.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/scripts/sqlserver.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/sql/sqlserver.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/server_side/scripts/ssp.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/examples/data/ssp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/styling/stackedInputs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/staff-array.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/rest/staff-rest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/staff.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/standalone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/state_save.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColReorder/examples/state_save.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Scroller/examples/state_saving.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/AutoFill/examples/step-callback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/stringMonthYear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/styling/stripe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/inline-editing/submitButton.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/api/sum().js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/TableTools/examples/swf_path.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/inline-editing/tabControl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/tableFormatting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/tableOnlyData.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/tableOnlyData.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/table_sorting.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/api/tabs_and_scrolling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/simple/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/advanced/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/simple/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/text.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/title-numeric.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/title-string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/title_callback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/php/todo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedHeader/examples/top_left_right.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/tree-grid/tree-grid-directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/tree-grid/treeGrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Editor/examples/api/triggerButton.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Plugins/sorting/turkish-string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedColumns/examples/two_columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/two_tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedHeader/examples/two_tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/ColVis/examples/two_tables_identical.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/Responsive/examples/child-rows/whole-row-control.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/extensions/FixedHeader/examples/zIndexes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin-themes/plugins/datatables/examples/basic_init/zero_configuration.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app.js" afterPath="$PROJECT_DIR$/public/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/views/customers.html" afterPath="$PROJECT_DIR$/public/views/customers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/views/dashboard.html" afterPath="$PROJECT_DIR$/public/views/dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/database/db.js" afterPath="$PROJECT_DIR$/server/database/db.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/views/index.html" afterPath="$PROJECT_DIR$/public/views/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/routes/index.js" afterPath="$PROJECT_DIR$/server/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/views/products.html" afterPath="$PROJECT_DIR$/public/views/products.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/views/vendors.html" afterPath="$PROJECT_DIR$/public/views/vendors.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
     </list>
     <ignored path="Cashier.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -689,18 +30,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/views/dashboard.html">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.235294" vertical-offset="1155" max-vertical-offset="2685">
-              <caret line="88" column="69" selection-start-line="88" selection-start-column="69" selection-end-line="88" selection-end-column="69" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#1;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -708,24 +43,10 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41618496" vertical-offset="804" max-vertical-offset="2610">
-              <caret line="139" column="46" selection-start-line="139" selection-start-column="46" selection-end-line="139" selection-end-column="46" />
+            <state vertical-scroll-proportion="-1.7996147" vertical-offset="1624" max-vertical-offset="3450">
+              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
               <folding>
-                <element signature="e#1831#4276#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/views/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.980392" vertical-offset="15244" max-vertical-offset="15780">
-              <caret line="1040" column="56" selection-start-line="1040" selection-start-column="56" selection-end-line="1040" selection-end-column="56" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5622#6456#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -739,17 +60,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/.bowerrc" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/public/views/test.html" />
         <option value="$PROJECT_DIR$/public/views/products.html" />
         <option value="$PROJECT_DIR$/public/views/customers.html" />
         <option value="$PROJECT_DIR$/public/views/vendors.html" />
-        <option value="$PROJECT_DIR$/server/routes/index.js" />
         <option value="$PROJECT_DIR$/server/database/db.js" />
-        <option value="$PROJECT_DIR$/public/views/index.html" />
         <option value="$PROJECT_DIR$/public/views/dashboard.html" />
+        <option value="$PROJECT_DIR$/public/views/index.html" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/server/routes/index.js" />
         <option value="$PROJECT_DIR$/public/app.js" />
       </list>
     </option>
@@ -1107,32 +428,16 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/server/routes/index.js</url>
-          <line>30</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/server/routes/index.js</url>
-          <line>47</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="24" />
+      <option name="time" value="30" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
-        <watch expression="this.finances.profit.months" language="JavaScript" />
-        <watch expression="prevMonth" language="JavaScript" />
-        <watch expression="this.finances.cashflow.months[i]" language="JavaScript" />
-        <watch expression="this.finances.profit.months[i]" language="JavaScript" />
-        <watch expression="this.finances.cashflow" language="JavaScript" />
-        <watch expression="newMonthCashflow" language="JavaScript" />
-        <watch expression="prevMonthCashflow" language="JavaScript" />
+        <watch expression="req.body.companyId" language="JavaScript" />
+        <watch expression="req.body" language="JavaScript" />
+        <watch expression="req.session.companyId" language="JavaScript" />
       </configuration>
     </watches-manager>
   </component>
@@ -1188,14 +493,6 @@
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="870">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02534113" vertical-offset="92" max-vertical-offset="870">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
@@ -1294,14 +591,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="428" max-vertical-offset="1365">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/database/db.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8262911" vertical-offset="3683" max-vertical-offset="5160">
@@ -1334,18 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.980392" vertical-offset="15244" max-vertical-offset="15780">
-          <caret line="1040" column="56" selection-start-line="1040" selection-start-column="56" selection-end-line="1040" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/admin-themes/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33203125" vertical-offset="10840" max-vertical-offset="11790">
@@ -1354,9 +631,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="11565" max-vertical-offset="15780">
+          <caret line="782" column="78" selection-start-line="782" selection-start-column="72" selection-end-line="782" selection-end-column="78" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5494506" vertical-offset="0" max-vertical-offset="885">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/views/dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.235294" vertical-offset="1155" max-vertical-offset="2685">
+        <state vertical-scroll-proportion="2.0" vertical-offset="330" max-vertical-offset="2685">
           <caret line="88" column="69" selection-start-line="88" selection-start-column="69" selection-end-line="88" selection-end-column="69" />
           <folding>
             <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
@@ -1368,12 +665,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41618496" vertical-offset="804" max-vertical-offset="2610">
-          <caret line="139" column="46" selection-start-line="139" selection-start-column="46" selection-end-line="139" selection-end-column="46" />
+        <state vertical-scroll-proportion="-1.7996147" vertical-offset="1624" max-vertical-offset="3450">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
           <folding>
-            <element signature="e#1831#4276#0" expanded="false" />
+            <element signature="e#5622#6456#0" expanded="false" />
           </folding>
         </state>
       </provider>

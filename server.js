@@ -24,6 +24,10 @@ app.use(bodyParser.json());
 // uncomment after placing your favicon in /public
 //app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 app.use(cookieParser());
+// ** Session Secret ** //
+app.use(session({
+    secret: 'kitty cat'
+}));
 app.use(express.static(path.join(__dirname, 'public')));
 
 
@@ -36,10 +40,7 @@ app.use('/', express.static(path.join(__dirname, "/public/assets")));
 // ** Remote logging ** //
 app.use(morgan('dev'));
 
-// ** Session Secret ** //
-app.use(session({
-    secret: 'kitty cat'
-}));
+
 
 app.use(routes(db));
 

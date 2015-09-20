@@ -36,27 +36,49 @@ app.config(function ($routeProvider) {
 
     .controller('dashboardController', function ($scope, $http, Highcharts) {
 
+        $scope.loadEven = function($scope){
+            $http.post("/load-company", {
+                companyId : 0
+            }).success(function(data){
+                init();
+            });
+        };
+
+        $scope.loadSeasonal = function(){
+            $http.post("/load-company", {
+                companyId : 1
+            }).success(function(data){
+                init();
+            });
+        };
+
+
+
         $scope.profit_tree = [{Year:'',Jan:'',Feb:'',Mar:'',Apr:'',May:'',Jun:'',Jul:'',Aug:'',Sep:'',Oct:'',Nov:'',Dec:''}];
 
-        $http.get("/dashboard-init", {
-            companyId: 1
-        }).success(function (data, status) {
+        init();
 
-            $scope.current = data.finances.cashflow.current;
-            $scope.ceiling = data.finances.cashflow.ceiling;
-            $scope.floor = data.finances.cashflow.floor;
+        function init() {
 
-            console.log(data);
-            createChart(data);
-            createProfitTable($scope, data);
+            $http.post("/dashboard-init", {
+            }).success(function (data, status) {
 
+                $scope.current = data.finances.cashflow.current;
+                $scope.ceiling = data.finances.cashflow.ceiling;
+                $scope.floor = data.finances.cashflow.floor;
+                $scope.companyId = data.companyId;
 
+                console.log("Receivieng " + data.companyId);
 
-        }).error(function (data) {
-            console.log('Error');
-        }).finally(function (data) {
-            console.log("Init finished.");
-        });
+                createChart(data);
+                createProfitTable(data);
+
+            }).error(function (data) {
+                console.log('Error');
+            }).finally(function (data) {
+                console.log("Init finished.");
+            });
+    }
 
         function createChart(data){
             var seriesData = [];
@@ -131,7 +153,7 @@ app.config(function ($routeProvider) {
 
         }
 
-        function createProfitTable($scope, data){
+        function createProfitTable(data){
 
             console.log(data.finances.cashflow);
             var cash = makeMonths({}, data.finances.cashflow.months);
@@ -172,26 +194,8 @@ app.config(function ($routeProvider) {
                 }
                 return td;
             }
-
-            //$scope.tree_data = [
-            //    {Name:"USA",Area:9826675,Population:318212000,TimeZone:"UTC -5 to -10",
-            //        children:[
-            //            {Name:"California", Area:423970,Population:38340000,TimeZone:"Pacific Time",
-            //                children:[
-            //                    {Name:"San Francisco", Area:231,Population:837442,TimeZone:"PST"},
-            //                    {Name:"Los Angeles", Area:503,Population:3904657,TimeZone:"PST"}
-            //                ]
-            //            },
-            //            {Name:"Illinois", Area:57914,Population:12882135,TimeZone:"Central Time Zone",
-            //                children:[
-            //                    {Name:"Chicago", Area:234,Population:2695598,TimeZone:"CST"}
-            //                ]
-            //            }
-            //        ]
-            //    },
-            //    {Name:"Texas",Area:268581,Population:26448193,TimeZone:"Mountain"}
-            //];
         }
+
 
 }).controller('customerController', function ($scope, $http) {
 
