@@ -1,42 +1,204 @@
-var app = angular.module('Cashier', ['ngAnimate']);
+var app = angular.module('Cashier', ['ngRoute', 'treeGrid']).value('Highcharts', Highcharts);
+// configure our routes
+app.config(function ($routeProvider) {
+    $routeProvider
 
-app.controller('indexController', function($scope, $http) {
-    $scope.username = "Hello";
+        // route for the home page
+        .when('/', {
+            templateUrl: 'views/dashboard.html',
+            controller: 'dashboardController'
+        })
 
-    $scope.init = function () {
+        // route for the about page
+        .when('/dashboard', {
+            templateUrl: 'views/dashboard.html',
+            controller: 'dashboardController'
+        })
 
-        $http.get("/index-init", {
-            companyId: 0
-        }).success(function (data, status) {
-            console.log(data);
-            $scope.name = data.msg;
-        }).error(function (data) {
-            console.log('Error');
-        }).finally(function (data) {
-            console.log("Init finished.");
-        });
-    }
-}).controller('dashboardController', function($scope, $http) {
-    $scope.username = "Hello";
+        // route for the contact page
+        .when('/customers', {
+            templateUrl: 'views/customers.html',
+            controller: 'customerController'
+        })
 
-    $scope.init = function () {
+        // route for the contact page
+        .when('/vendors', {
+            templateUrl: 'views/vendors.html',
+            controller: 'vendorController'
+        })
+
+        // route for the contact page
+        .when('/products', {
+            templateUrl: 'views/products.html',
+            controller: 'productController'
+        })
+})
+
+    .controller('dashboardController', function ($scope, $http, Highcharts) {
+
+        $scope.profit_tree = [{Year:'',Jan:'',Feb:'',Mar:'',Apr:'',May:'',Jun:'',Jul:'',Aug:'',Sep:'',Oct:'',Nov:'',Dec:''}];
 
         $http.get("/dashboard-init", {
             companyId: 1
         }).success(function (data, status) {
+
+            $scope.current = data.finances.cashflow.current;
+            $scope.ceiling = data.finances.cashflow.ceiling;
+            $scope.floor = data.finances.cashflow.floor;
+
             console.log(data);
+            createChart(data);
+            createProfitTable($scope, data);
+
+
+
         }).error(function (data) {
             console.log('Error');
         }).finally(function (data) {
             console.log("Init finished.");
         });
-    }
-}).controller('customerController', function($scope, $http) {
+
+        function createChart(data){
+            var seriesData = [];
+            seriesData.push({
+                name : 'Cash Flow',
+                data : data.finances.cashflow.months,
+                threshold: 0,
+                negativeColor: 'red'
+            }, {
+                name : 'Profit',
+                data : data.finances.profit.months
+            },{
+                name: '0',
+                marker: {
+                    enabled: false
+                },
+                data: [0,0,0,0,0,0,0,0,0,0,0,0]
+            });
+
+            var ecomChart = angular.element($('#ecommerce_chart1'));
+            if (ecomChart.length) {
+                ecomChart.highcharts({
+                    credits: false,
+                    colors: ['#37bc9b', '#70ca63', '#000000'],
+                    chart: {
+                        backgroundColor: 'transparent',
+                        className: '',
+                        type: 'line',
+                        zoomType: 'x',
+                        panning: true,
+                        panKey: 'shift',
+                        marginTop: 45,
+                        marginRight: 1
+                    },
+                    title: {
+                        text: null
+                    },
+                    xAxis: {
+                        gridLineColor: '#EEE',
+                        lineColor: '#EEE',
+                        tickColor: '#EEE',
+                        categories: ['Jan', 'Feb', 'Mar', 'Apr',
+                            'May', 'Jun', 'Jul', 'Aug',
+                            'Sep', 'Oct', 'Nov', 'Dec'
+                        ]
+                    },
+                    yAxis: {
+                        tickInterval: 10,
+                        gridLineColor: '#EEE',
+                        title: {
+                            text: null
+                        }
+                    },
+                    plotOptions: {
+                        spline: {
+                            lineWidth: 3
+                        },
+                        area: {
+                            fillOpacity: 0.2
+                        }
+                    },
+                    legend: {
+                        enabled: true,
+                        floating: false,
+                        align: 'right',
+                        verticalAlign: 'top',
+                        x: -15
+                    },
+                    series: seriesData
+                });
+            }
+
+        }
+
+        function createProfitTable($scope, data){
+
+            console.log(data.finances.cashflow);
+            var cash = makeMonths({}, data.finances.cashflow.months);
+            cash.Year = 'Cash';
+            var tree_data = makeTree({}, data.finances.profit);
+            $scope.profit_tree = [cash, tree_data];
+
+            function makeTree(td, level){
+                td.Year = level.name;
+                td = makeMonths(td, level.months);
+                if(level.children){
+                    level.children.forEach(function(child){
+                        td.children = td.children || [];
+                        td.children.push(makeTree({}, child))
+
+                    })
+                }
+                return td;
+            }
+
+            function makeMonths(td, months){
+                for(var i = 0; i < months.length; i++){
+                    var val = months[i];
+                    switch(i){
+                        case 0: td.Jan = val;break;
+                        case 1: td.Feb = val;break;
+                        case 2: td.Mar = val;break;
+                        case 3: td.Apr = val;break;
+                        case 4: td.May = val;break;
+                        case 5: td.Jun = val;break;
+                        case 6: td.Jul = val;break;
+                        case 7: td.Aug = val;break;
+                        case 8: td.Sep = val;break;
+                        case 9: td.Oct = val;break;
+                        case 10:td.Nov = val;break;
+                        case 11:td.Dec = val;break;
+                    }
+                }
+                return td;
+            }
+
+            //$scope.tree_data = [
+            //    {Name:"USA",Area:9826675,Population:318212000,TimeZone:"UTC -5 to -10",
+            //        children:[
+            //            {Name:"California", Area:423970,Population:38340000,TimeZone:"Pacific Time",
+            //                children:[
+            //                    {Name:"San Francisco", Area:231,Population:837442,TimeZone:"PST"},
+            //                    {Name:"Los Angeles", Area:503,Population:3904657,TimeZone:"PST"}
+            //                ]
+            //            },
+            //            {Name:"Illinois", Area:57914,Population:12882135,TimeZone:"Central Time Zone",
+            //                children:[
+            //                    {Name:"Chicago", Area:234,Population:2695598,TimeZone:"CST"}
+            //                ]
+            //            }
+            //        ]
+            //    },
+            //    {Name:"Texas",Area:268581,Population:26448193,TimeZone:"Mountain"}
+            //];
+        }
+
+}).controller('customerController', function ($scope, $http) {
 
     $scope.init = function () {
         console.log('initing');
         $http.get("/customers-init", {
-            customerId : 0
+            customerId: 0
         }).success(function (data, status) {
             console.log(data);
         }).error(function (data) {
@@ -45,7 +207,7 @@ app.controller('indexController', function($scope, $http) {
             console.log("Init finished.");
         });
     }
-}).controller('vendorController', function($scope, $http) {
+}).controller('vendorController', function ($scope, $http) {
     $scope.username = "Hello";
 
     $scope.init = function () {
@@ -60,7 +222,7 @@ app.controller('indexController', function($scope, $http) {
             console.log("Init finished.");
         });
     }
-}).controller('productController', function($scope, $http) {
+}).controller('productController', function ($scope, $http) {
     $scope.username = "Hello";
 
     $scope.init = function () {

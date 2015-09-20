@@ -14,6 +14,10 @@ module.exports = function (db) {
         res.render('index.html');
     });
 
+    router.get('/test', function (req, res) {
+        res.render('test.html');
+    });
+
     router.get('/index', function (req, res) {
         res.render('index.html');
     });
@@ -30,11 +34,9 @@ module.exports = function (db) {
     router.get('/dashboard-init', function (req, res) {
 
         // Pull in the different sources of info
-
-        return res.json({
-
-
-        });
+        var companyId = req.session.companyId || 1,
+            company = db.getCompany(companyId);
+        return res.json(company);
     });
 
     router.get('/customers', function (req, res) {

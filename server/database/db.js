@@ -245,14 +245,30 @@ var Company = function(name, customers, vendors, products){
 
     this.finances.profit = profit;
     profit.init();
-};
 
-
-
-Company.prototype.init = function(){
     this.finances.cashflow = {};
     this.finances.cashflow.current = 0;
+    this.finances.cashflow.floor = 0;
+    this.finances.cashflow.ceiling = 0;
     this.finances.cashflow.months = [];
+
+    for(var i = 0; i < this.finances.profit.months.length; i++){
+
+        var prevMonthCashflow = this.finances.cashflow.months[i-1] || 0;
+        // Running total
+        var newMonthCashflow = prevMonthCashflow + this.finances.profit.months[i];
+        this.finances.cashflow.months[i] = newMonthCashflow;
+        // Floor
+        if(newMonthCashflow <= this.finances.cashflow.floor){
+            this.finances.cashflow.floor = newMonthCashflow;
+        }
+
+        // Ceiling
+        if(newMonthCashflow >= this.finances.cashflow.ceiling){
+            this.finances.cashflow.ceiling = newMonthCashflow;
+        }
+    }
+
 };
 
 function Account(name, months, modifier){
